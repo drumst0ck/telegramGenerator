@@ -1,0 +1,30 @@
+{
+  "name": "telegramgenerator",
+  "version": "1.0.0",
+  "description": "A telegram bot, generate a new post and push to strapi",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "@ai-sdk/openai": "^0.0.40",
+    "@supabase/supabase-js": "^2.43.4",
+    "ai": "^3.2.40",
+    "axios": "^1.7.2",
+    "base-64": "^1.0.0",
+    "cheerio": "^1.0.0-rc.12",
+    "date-fns": "^3.6.0",
+    "dynamic-sitemap": "^1.0.4",
+    "form-data": "^4.0.0",
+    "jsdom": "^24.1.0",
+    "moment": "^2.30.1",
+    "node-telegram-bot-api": "^0.66.0",
+    "octokit": "^4.0.2",
+    "openai": "^4.47.1",
+    "readline": "^1.3.0",
+    "rss-parser": "^3.13.0",
+    "slugify": "^1.6.6"
+  },
+  "author": "",
+  "license": "ISC"
+}
