@@ -36,15 +36,7 @@ seamless workflow for content creation and publication.
    npm install
    ```
 
-3. Create a `.env` file in the root directory and add your credentials:
-
-   ```
-   TELEGRAM_BOT_TOKEN=your_telegram_bot_token
-   OPENAI_API_KEY=your_openai_api_key
-   STRAPI_URL=your_strapi_url
-   ```
-
-4. Update the Strapi configuration in the `publishToStrapi` function to match
+3. Update the Strapi configuration in the `publishToStrapi` function to match
    your CMS structure.
 
 ## Usage
