@@ -26,8 +26,8 @@ seamless workflow for content creation and publication.
 1. Clone the repository:
 
    ```
-   git clone https://github.com/yourusername/news-generation-bot.git
-   cd news-generation-bot
+   git clone https://github.com/drumst0ck/telegramGenerator
+   cd telegramGenerator
    ```
 
 2. Install dependencies:
